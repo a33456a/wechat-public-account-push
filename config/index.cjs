@@ -6,12 +6,13 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-
+// 请将以下代码按照图示粘贴到对应位置
+USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx0e3171b2383c709b',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'aff9cdf6d54d20556483282486e143f9',
+  APP_SECRET: '',
 
   PROVINCE: '江苏',
   CITY: '泰州',
@@ -21,7 +22,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ork2d5_RMAbFi1yIEGW0fPyQyMGo',
+      id: 'PDU18156T6tr4uQ5QiHmzwqrVz2PJGaKTgwkjgGmG',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '	_jhUKfQKrTAqOdbHQuPSnaVGiGM0pawENa6aqlWtNFU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
