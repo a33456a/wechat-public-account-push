@@ -22,7 +22,8 @@ USE_PASSAGE: 'push-deer',
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'PDU18156T6tr4uQ5QiHmzwqrVz2PJGaKTgwkjgGmG','PDU18534TQ2QTrDgk1G2D0RufRMIjEE9D1L0BkfDF',
+      id: 'PDU18156T6tr4uQ5QiHmzwqrVz2PJGaKTgwkjgGmG',
+      'PDU18534TQ2QTrDgk1G2D0RufRMIjEE9D1L0BkfDF',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
